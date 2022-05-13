@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<songs>
+    <song>
+        <id>1</id>
+        <title>Never Gonna Give You Up</title>
+        <artist>Rick Astley</artist>
+        <label>RCA</label>
+        <released>1987</released>
+    </song>
+    <song>
+        <id>2</id>
+        <title>Never Gonna Give You Up Again</title>
+        <artist>Rick Astley</artist>
+        <label>RCA</label>
+        <released>1989</released>
+    </song>
+</songs>

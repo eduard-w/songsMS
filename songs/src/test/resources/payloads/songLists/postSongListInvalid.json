@@ -1,0 +1,20 @@
+{
+  "isPrivate": true,
+  "listName": "list1",
+  "songs": [
+    {
+      "id": 5,
+      "title": "We Built This City",
+      "artist": "Starship",
+      "label": "Grunt/RCA",
+      "released": 2020
+    },
+    {
+      "id": 4,
+      "title": "Sussudio",
+      "artist": "Phil Collins",
+      "label": "Virgin",
+      "released": 1985
+    }
+  ]
+}

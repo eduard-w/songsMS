@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<songlists>
+    <songlist>
+        <isPrivate>true</isPrivate>
+        <listName>list1</listName>
+        <songs>
+            <song>
+                <id>5</id>
+                <title>We Built This City</title>
+                <artist>Starship</artist>
+                <label>Grunt/RCA</label>
+                <released>1985</released>
+            </song>
+            <song>
+                <id>4</id>
+                <title>Sussudio</title>
+                <artist>Phil Collins</artist>
+                <label>Virgin</label>
+                <released>1985</released>
+            </song>
+        </songs>
+    </songlist>
+</songlists>
